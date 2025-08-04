@@ -1,6 +1,7 @@
 // User function Template for C++
 #include <iostream>
 #include <stack>
+#include <vector>
 using namespace std;
 
 class Solution {
